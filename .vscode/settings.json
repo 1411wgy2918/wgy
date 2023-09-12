@@ -1,0 +1,5 @@
+{
+    "qtConfigure.qtKitDir": "d:/Qt/5.14.2/msvc2017_64",
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.configurationProvider": "s-vscode.cmake-tools"
+}

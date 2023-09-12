@@ -1,0 +1,3 @@
+D:/project/vscodeqt/build/CMakeFiles/vscodeqt.dir
+D:/project/vscodeqt/build/CMakeFiles/ALL_BUILD.dir
+D:/project/vscodeqt/build/CMakeFiles/ZERO_CHECK.dir
