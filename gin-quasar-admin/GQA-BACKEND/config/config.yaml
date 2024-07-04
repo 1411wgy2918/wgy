@@ -1,0 +1,26 @@
+log:
+    path: gqalogs
+    filename: gqa-log
+    maxSize: 20
+    maxBackups: 10
+    maxAge: 7
+mysql:
+    host:
+    port:
+    user:
+    password:
+    database:
+    maxIdle: 0
+    maxOpen: 0
+system:
+    port: 8888
+    successCode: 1
+    successMessage: Success
+    errorCode: 0
+    errorMessage: Failed
+    bindError: params verification failed
+    genPluginToPath: gqagen/plugins
+    genPluginTemplatePath: template/genplugin
+    importPath: ./template/import
+    exportPath: ./template/export
+    templatePath: ./template/template
